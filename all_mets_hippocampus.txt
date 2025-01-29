@@ -1,0 +1,552 @@
+dADP
+N-Acetyl-L-aspartate
+5alpha-Cholest-7-en-3beta-ol
+(S)-Propane-1,2-diol
+UDPglucose
+Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis)
+L-Asparagine
+4-Methyl-2-oxopentanoate
+5,10-Methenyltetrahydrofolate
+R total 3 Coenzyme A
+Hexadecenoyl-CoA (n-C16:1CoA)
+Norepinephrine
+ADPribose
+D-Xylulose 5-phosphate
+5,10-Methylenetetrahydrofolate
+2-keto-4-methylthiobutyrate
+R total carnitine
+L-Lactate
+Taurine
+Pyridoxine
+dTTP
+Cys-Gly
+D-Glucose 6-phosphate
+D-Alanine
+(S)-Methylmalonyl-CoA
+L-Malate
+Palmitoyl-CoA (n-C16:0CoA)
+dATP
+octadecenoate (n-C18:1)
+Putrescine
+Pyruvate
+adrenyl coenzyme A
+Succinyl-CoA
+R group 1 Coenzyme A homo sapiens
+L-Lactaldehyde
+cervonyl carnitine
+dihydroceramide (homo sapiens)
+5-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoate
+CDP
+(S)-Dihydroorotate
+Linoelaidyl carnitine
+dTDP
+primed glycogenin (glycogenin-8[1,4-Glc])
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
+phosphatidylethanolamine (homo sapiens)
+O-Phospho-L-serine
+N-Acetylneuraminate 9-phosphate
+stearoylcarnitine
+octadecanoate (n-C18:0)
+Hexadecenoyl carnitine
+GDP
+L-Glutamine
+5-Methylthio-5-deoxy-D-ribulose 1-phosphate
+dihomo-gamma-linolenyl carnitine
+Deamino-NAD+
+L-Arginine
+5-Methylthioadenosine
+(S)-Squalene-2,3-epoxide
+Octanoyl-CoA (n-C8:0CoA)
+(S)-3-Hydroxyisobutyryl-CoA
+stearidonyl carnitine
+Reduced thioredoxin
+N-Ribosylnicotinamide
+Desmosterol
+Butyrate (n-C4:0)
+Isocitrate
+5-Methylthio-5-deoxy-D-ribose 1-phosphate
+Nicotinate D-ribonucleotide
+Ferricytochrome c
+4-Aminobutanoate
+N-Acetylneuraminate
+trans-Octadec-2-enoyl-CoA
+Hexadecenoate (n-C16:1)
+2,3-Disphospho-D-glycerate
+N(omega)-(L-Arginino)succinate
+4,4-dimethylzymosterol
+Thiamin triphosphate
+Guanine
+N,N-Dimethylglycine
+dihomo-gamma-linolenic acid (n-6)
+Hypotaurine
+UMP
+Deoxyuridine
+Isopentenyl diphosphate
+FMN
+gamma-linolenic acid
+Oxaloacetate
+taurocholic acid
+D-Glucose
+glycogen, structure 3 (glycogenin-7[1,4-Glc])
+Arachidic acid
+N-Acetyl-D-mannosamine 6-phosphate
+S-Adenosyl-L-homocysteine
+Malonate semialdehyde
+Sodium
+R total
+D-Glucose 1-phosphate
+Isovaleryl-CoA
+L-Alanine
+3',5'-Cyclic GMP
+Phenylacetaldehyde
+L-sulfolactate
+linoelaidic acid (all trans C18:2)
+pristanoyl coa
+Nicotinamide adenine dinucleotide phosphate
+Oxalate
+elaidic acid
+5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide
+phosphatidylinositol (homo sapiens)
+Prostaglandin D2
+Ubiquinol-10
+D-Lactate
+Oxidized glutathione
+Guanosine
+L-Histidine
+L-Cysteate
+N-(omega)-Hydroxyarginine
+Nicotinamide adenine dinucleotide phosphate - reduced
+phosphatidylserine (homo sapiens)
+Formate
+Ferrocytochrome C
+adrenic acid
+3-mercaptolactate-cysteine disulfide
+(R)-5-Diphosphomevalonate
+Ornithine
+L-Thyroxine
+tetradecanoyl carnitine
+heptadecanoyl carnitine
+Malonyl-CoA
+4-Methylzymosterol intermediate 2
+Methylamine
+4-Nitrophenyl sulfate
+Orotidine 5'-phosphate
+L-Aspartate
+clupanodonyl CoA
+phosphorylase-limit dextrin (glycogenin-1,6{4[1,4-Glc], 4[1,4-Glc]})
+alpha-Linolenic acid, C18:3, n-3
+3,4-Dihydroxymandelaldehyde
+L-Lysine
+Decanoyl-CoA (n-C10:0CoA)
+7-alpha,24(S)-Dihydroxycholesterol
+Sedoheptulose 7-phosphate
+Elaidic carnitine
+2-Deoxy-D-ribose 1-phosphate
+Thiamin
+Uracil
+Phosphate
+Glyoxylate
+Tetrahydrobiopterin-4a-carbinolamine
+2-Methyl-3-oxopropanoate
+CDPcholine
+Mesaconyl-CoA
+glycogen, structure 1 (glycogenin-11[1,4-Glc])
+phosphatidylinositol-3,4-bisphosphate (Homo sapiens)
+(R)-Mevalonate
+Creatine
+6-phospho-D-glucono-1,5-lactone
+L-Valine
+2-Hydroxybutyrate
+Dihydroxyacetone phosphate
+pristanic acid
+Farnesyl diphosphate
+Pyridoxine 5'-phosphate
+3-Sulfopyruvate
+3-Phosphohydroxypyruvate
+Leukotriene D4
+S-Adenosylmethioninamine
+Tyramine
+D-Fructose 1-phosphate
+Hydrogen peroxide
+leukotriene F4
+Ammonium
+Phosphoenolpyruvate
+L-3-Amino-isobutanoate
+Dimethylallyl diphosphate
+UTP
+Xanthine
+7-Dehydrodesmosterol
+stearidonic acid C18:4, n-3
+4,4-dimethylcholesta-8,14,24-trienol
+Octadecenoyl-CoA (n-C18:1CoA)
+Dopamine 3-O-sulfate
+alpha-D-Ribose 5-phosphate
+cervonic acid, C22:6 n-3
+Diphosphate
+CDP diacylglycerol (homo sapiens)
+Pyridoxal
+sphingosylphosphorylcholine (homo sapiens)
+ceramide (homo sapiens)
+N-Methylhistamine
+1-Phosphatidyl-1D-myo-inositol 3-phosphate (Homo sapiens)
+Superoxide anion
+1D-myo-Inositol 1,3,4,5-tetrakisphosphate
+lysophosphatidylcholine (homo sapiens)
+4-Hydroxyphenylacetate
+D-Ribulose 5-phosphate
+L-Methionine
+L-Palmitoylcarnitine
+Sulfite
+3-Phospho-D-glycerate
+potassium
+2-Methylbutanoyl-CoA
+3-Dehydrosphinganine
+13-cis-retinoate
+lignocericyl coenzyme A
+Sphinganine
+D-Erythrose 4-phosphate
+glucocerebroside (homo sapiens)
+ITP
+zymosterol intermediate 2
+stearidonyl coenzyme A
+L-Tyrosine
+Carbamoyl phosphate
+phosphatidic acid (homo sapiens)
+sphingomyelin (homo sapiens)
+ADP
+S-Formylglutathione
+Phosphatidylcholine (homo sapiens)
+D-Mannose 6-phosphate
+Mesaconate
+1D-myo-Inositol 3-phosphate
+L-Cystathionine
+dITP
+hexacosanoate (n-C26:0)
+Glycine betaine
+D-Glycerate 2-phosphate
+5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
+Succinate
+Cholesta-7,24-dien-3beta-ol
+D-Galactose
+R group 4 Coenzyme A homo sapiens
+R group 5 Coenzyme A homo sapiens
+C20:4-CoA
+Uridine
+docosa-4,7,10,13,16-pentaenoyl coenzyme A
+Cholate
+D-4'-Phosphopantothenate
+L-Xylulose
+cervonyl coenzyme A
+heptadecanoyl coa
+Acetyl-CoA
+alpha-D-Ribose 1-phosphate
+arachidonic acid
+timnodonic acid C20:5, n-3
+Glycine
+myo-Inositol
+Sphingosine 1-phosphate
+tetradecanoate (n-C14:0)
+dUMP
+lignoceric acid
+5-amino-1-(5-phospho-D-ribosyl)imidazole
+Deoxyadenosine
+3-Methyl-2-oxobutanoate
+Ethanolamine phosphate
+Adenine
+Acetate
+Nicotinate D-ribonucleoside
+1D-myo-Inositol 4-phosphate
+(R)-Methylmalonyl-CoA
+glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]})
+Pyridoxal 5'-phosphate
+4-Methylzymosterol intermediate 1
+1D-myo-Inositol 1,4,5-trisphosphate
+Propionate (n-C3:0)
+Glycolaldehyde
+Nicotinamide adenine dinucleotide - reduced
+3-Sulfino-L-alanine
+dCMP
+Spermidine
+D-Glucosamine
+Flavin adenine dinucleotide reduced
+D-Mannose
+vaccenic acid
+cis-11-retinol
+R total Coenzyme A
+D-Glyceraldehyde
+vaccenyl coenzyme A
+Acetoacetyl-CoA
+D-Fructose 1,6-bisphosphate
+pentadecanoyl Coenzyme A
+3'-Phosphoadenylyl sulfate
+tetracosatetraenoic acid n-6
+D-Fructose
+Itaconyl-CoA
+lysophosphatidic acid (homo sapiens)
+Dodecanoyl-CoA (n-C12:0CoA)
+heptadecanoate
+CO2
+2-keto-3-deoxy-D-glycero-D-galactononic acid
+(S)-3-Methyl-2-oxopentanoate
+Leukotriene C4
+Tyramine O-sulfate
+D-Xylulose
+Methanol
+L-Glutamate 5-phosphate
+IDP
+GTP
+2,3-diketo-5-methylthio-1-phosphopentane
+CMP
+Butanoyl-CoA
+octanoate (n-C8:0)
+docosa-4,7,10,13,16-pentaenoyl carnitine
+Linoleyl carnitine
+tetracosapentaenoic acid, n-3
+Estradiol
+cAMP
+D-Fructose 6-phosphate
+6,7-Dihydrobiopterin
+Calcium
+GMP
+2-Methyl-3-acetoacetyl-CoA
+dCTP
+2-keto-3-deoxy-D-glycero-D-galactononic acid 9-phosphate
+Acetone
+Xanthosine 5'-phosphate
+6-Phospho-D-gluconate
+Coenzyme A
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
+(S)-3-Hydroxy-2-methylbutyryl-CoA
+L-Ascorbate
+ATP
+Adrenyl carnitine
+4-Aminobutanal
+Xylitol
+5-Methyltetrahydrofolate
+Adenosine 3',5'-bisphosphate
+2-Oxoglutarate
+leukotriene E4
+5-Phospho-beta-D-ribosylamine
+D-Sorbitol
+D-Lactaldehyde
+3-Hydroxy-2-methylpropanoate
+Fe2+
+dIDP
+2-Methylcitrate
+beta-Aminopropion aldehyde
+Eicosatetranoyl carnitine
+Retinal
+phosphatidylinositol-3,4,5-trisphosphate (Homo sapiens)
+3-Sulfinopyruvate
+Tetrahydrobiopterin
+3,4-Dihydroxy-L-phenylalanine
+Fumarate
+CTP
+2-Oxobutanoate
+1D-myo-Inositol 3,4-bisphosphate
+phosphatidylinositol 4,5-bisphosphate (Homo sapiens)
+Geranyl diphosphate
+Succinic semialdehyde
+Sulfate derivative of norepinephrine
+gamma-L-Glutamyl-L-cysteine
+Xanthosine
+gamma-linolenoyl-CoA
+Cholesterol
+Chloride
+AMP
+Triiodothyronine sulfate
+Guanidinoacetate
+Dehydroascorbate
+trans-2-Methylbut-2-enoyl-CoA
+N-((R)-4-Phosphopantothenoyl)-L-cysteine
+Hypoxanthine
+Histamine
+Prostaglandin E2
+alpha-N-Phenylacetyl-L-glutamine
+Pyridoxamine
+alpha-Linolenoyl-CoA
+tetracosapentaenoic acid, n-6
+dCDP
+Acetaldehyde
+Electron transfer flavoprotein reduced
+1D-myo-Inositol 1,3,4-trisphosphate
+L-Glutamate
+N-Carbamoyl-beta-alanine
+4-Nitrophenol
+Acetoacetate
+N1-(5-Phospho-D-ribosyl)glycinamide
+L-Proline
+cis-11-retinal
+Cytidine
+Hexacosanoyl-CoA (n-C26:0CoA)
+Betaine aldehyde
+N-Carbamoyl-L-aspartate
+gamma-linolenyl carnitine
+5,6-dihydrouracil
+Biotin
+Phosphocreatine
+dGDP
+Retinol
+Methylglyoxal
+Stearoyl-CoA (n-C18:0CoA)
+Adenosine 5'-phosphosulfate
+nervonic acid
+nervonyl coenzyme A
+Dopamine
+5-Oxoproline
+5-L-Glutamyl-L-alanine
+IMP
+3-Methylimidazole acetaldehyde
+Dephospho-CoA
+H+
+Riboflavin
+Estrone 3-sulfate
+Sphingosine
+4-Hydroxyphenylacetaldehyde
+tetracosahexaenoyl coenzyme A
+Orotate
+2-Aminoacrylate
+Itaconate
+1-Phosphatidyl-1D-myo-inositol 4-phosphate (Homo sapiens)
+Pantetheine 4'-phosphate
+Isobutyryl-CoA
+pendtadenoyl carnitine
+7-Dehydrocholesterol
+Estrone
+Inosine
+R total 3 position
+5,6,7,8-Tetrahydrofolate
+Crotonoyl-CoA
+2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine
+Flavin adenine dinucleotide oxidized
+O2
+Phenylacetyl-CoA
+tetracosapentaenoyl coenzyme A, n-3
+Mercaptopyruvate
+linoelaidyl coenzyme A
+Prostaglandin F2alpha
+D-Glucosamine 6-phosphate
+L-Arabinose
+tetracosapentaenoyl coenzyme A, n-6
+24-Hydroxycholesterol
+Squalene
+3-Methylglutaconyl-CoA
+Timnodonyl carnitine
+1-Pyrroline-5-carboxylate
+starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})
+diacylglycerol (homo sapiens)
+Lanosterol
+Phenethylamine
+3-Mercaptolactate
+glycocholate
+L-Threonine
+Urea
+Glyceraldehyde 3-phosphate
+Hydroxymethylglutaryl-CoA
+3-Phospho-D-glyceroyl phosphate
+dAMP
+dGTP
+glycogen, structure 4 (glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]})
+Sulfate
+Phenylacetic acid
+(R)-Pantothenate
+5-Phospho-alpha-D-ribose 1-diphosphate
+3-Methylimidazoleacetic acid
+Glycerol 3-phosphate
+Sarcosine
+L-Cysteine
+D-Fructose 2,6-bisphosphate
+arachidyl carnitine
+eicosatetranoyl coenzyme A
+NMN
+tetracosatetraenoyl coenzyme A
+1,3-Diaminopropane
+tetracosahexaenoic acid, n-3
+Choline
+Nitric oxide
+Prostaglandin H2
+(R)-5-Phosphomevalonate
+Thiamine diphosphate
+N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide
+R total 3 carnitine
+Vaccenyl carnitine
+L-Carnitine
+cis-9-retinal
+R total 2 carnitine
+L-Serine
+3-Methylbut-2-enoyl-CoA
+Urate
+Reduced glutathione
+UDP
+Acetol
+L-Isoleucine
+Retinoate
+carbonic acid
+linoleic coenzyme A
+Electron transfer flavoprotein oxidized
+dUTP
+(R)-Propane-1,2-diol
+Oxidized thioredoxin
+Bicarbonate
+C20:4 carnitine
+Ubiquinone-10
+(R)-S-Lactoylglutathione
+Zymostenol
+4,17 dihydroxy estradiol
+Choline phosphate
+N6-(1,2-Dicarboxyethyl)-AMP
+L-Arabinitol
+Formaldehyde
+zymosterol
+Fe3+
+linoleic acid (all cis C18:2) n-6
+Nicotinamide adenine dinucleotide
+R total 2 coenzyme A
+S-Adenosyl-L-methionine
+dihomo-gamma-linolenyl coenzyme A
+monoacylglycerol 2 (homo sapiens)
+starch, structure 2 (1,6-{2[1,4-Glc], [1,4-Glc]})
+pentadecanoate
+(S)-3-Hydroxybutanoyl-CoA
+Hexadecanoate (n-C16:0)
+Ethanol
+H2O
+Nicotinamide
+L-Phenylalanine
+L-Homocysteine
+1-Phosphatidyl-1D-myo-inositol 5-phosphate (Homo sapiens)
+1D-myo-Inositol 1-phosphate
+R total 2 position
+beta-Alanine
+Citrate
+arachidyl coenzyme A
+Pyridoxamine 5'-phosphate
+Adenosine
+L-Leucine
+timnodonyl coenzyme A
+2-Methylprop-2-enoyl-CoA
+Propanoyl-CoA
+Maltose
+3,4-Dihydroxyphenylethyleneglycol
+triacylglycerol (homo sapiens)
+N-Acetyl-D-mannosamine
+Triiodothyronine
+L-Citrulline
+eicosatetranoic acid
+Tetradecanoyl-CoA (n-C14:0CoA)
+10-Formyltetrahydrofolate
+dUDP
+L-Glutamate 5-semialdehyde
+Glycerol
+octadecenoyl carnitine
+alpha-linolenyl carnitine
+hydroxide ion
+docosa-4,7,10,13,16-pentaenoic acid (n-6)
+9-cis-retinol
+Leukotriene A4
+1D-myo-Inositol 1,4-bisphosphate
+Glycolate
+Adrenaline
+phosphatidylinositol-3,5-bisphosphate (Homo sapiens)
+D-Xylulose 1-phosphate
+clupanodonic acid
